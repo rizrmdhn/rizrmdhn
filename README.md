@@ -1,5 +1,7 @@
 ### Hi! 👋 I'm Rizki
 
+I'm a freelance fullstack developer, I'm passionate about technology and I love to learn new things.
+
 ### Tech Stack
 
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
