@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Rizki
 
-I'm a freelance fullstack developer, I'm passionate about technology and I love to learn new things.
+I'm a freelance web developer, I'm passionate about technology and I love to learn new things.
 
 ### Tech Stack
 
