@@ -1,28 +1,36 @@
-### Hi! 👋 I'm Rizki
+<h1 align="left">Hi! 👋 I'm Rizki</h1>
 
-I'm a freelance web developer, I'm passionate about technology and I love to learn new things.
+###
 
-### Tech Stack
+<p align="left">I'm a freelance web developer, I'm passionate about technology and I love to learn new things.</p>
 
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" /></a>
-<a href="https://www.dartlang.org/"><img align="left" alt="Dart" title="Dart" width="21px" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" /></a>
-<a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-<a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" /></a>
-<a href="https://reactnative.dev/"><img align="left" alt="React Native" title="React Native" width="21px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" /></a>
-<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<br>
-<br>
+###
 
-### Github Statistic
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="21" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="21" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="21" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="21" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="21" alt="laravel logo"  />
+</div>
 
-<p align="left">
-<a href="https://github.com/rizrmdhn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizrmdhn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizrmdhn&layout=compact&langs_count=8&theme=dark"/>
-</a>
-</p>
+###
 
-### Reach me on
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizrmdhn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizrmdhn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- <a href="https://www.linkedin.com/in/noor-rizki-ramadhan-036aaa24b/">LinkedIn</a>
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/noor-rizki-ramadhan-036aaa24b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="21" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
