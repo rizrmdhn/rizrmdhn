@@ -37,12 +37,12 @@ Bangkit Academy 2024 Alumni (Google × GoTo × Traveloka).
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-- **[BIMA Research Management System](https://portofolio.rizrmdhn.com)** — End-to-end platform streamlining research workflows for an academic institution · `Next.js` `tRPC` `Drizzle ORM`
-- **[Karta SPA POS](https://portofolio.rizrmdhn.com)** — Real-time Point-of-Sale with WebSocket-driven sync across multiple devices · `Kotlin` `Jetpack Compose` `Node.js` `Socket.io`
-- **[SobatCPNS](https://portofolio.rizrmdhn.com)** — Cross-platform mobile learning app for Indonesian civil service exam prep with offline-first architecture · `React Native` `TypeScript`
-- **[KOFITRA](https://portofolio.rizrmdhn.com)** — Athlete performance evaluation platform with coach dashboards · `Next.js` `tRPC` `TypeScript`
+- **[BIMA Research Management System](https://rizrmdhn.com?referral=github)** — End-to-end platform streamlining research workflows for an academic institution · `Next.js` `tRPC` `Drizzle ORM`
+- **[Karta SPA POS](https://rizrmdhn.com?referral=github)** — Real-time Point-of-Sale with WebSocket-driven sync across multiple devices · `Kotlin` `Jetpack Compose` `Node.js` `Socket.io`
+- **[SobatCPNS](https://rizrmdhn.com?referral=github)** — Cross-platform mobile learning app for Indonesian civil service exam prep with offline-first architecture · `React Native` `TypeScript`
+- **[KOFITRA](https://rizrmdhn.com?referral=github)** — Athlete performance evaluation platform with coach dashboards · `Next.js` `tRPC` `TypeScript`
 
-🌐 Full portfolio: **[portofolio.rizrmdhn.com](https://portofolio.rizrmdhn.com)**
+🌐 Full portfolio: **[rizrmdhn.com](https://rizrmdhn.com?referral=github)**
 
 ###
 
@@ -65,7 +65,7 @@ Bangkit Academy 2024 Alumni (Google × GoTo × Traveloka).
   <a href="mailto:rizrmdhn.work@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="33" height="21" alt="email" />
   </a>
-  <a href="https://portofolio.rizrmdhn.com" target="_blank">
+  <a href="https://rizrmdhn.com?referral=github" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" height="21" alt="portfolio" />
   </a>
 </div>
